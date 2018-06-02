@@ -1,2 +1,2 @@
 # aspnet-core
-ASP.NET experimentation
+ASP.NET Core experimentation
